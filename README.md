@@ -89,5 +89,5 @@ I design systems where **compliance, scalability, and performance coexist by des
 
 ### 🔗 GitHub Metrics
 
-![GitHub followers](https://img.shields.io/github/followers/mallasusan19?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/mallasusan19?style=social)
+![GitHub followers](https://img.shields.io/github/followers/royaltyrevived?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/royaltyrevived?style=social)
