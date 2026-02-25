@@ -91,6 +91,7 @@ Security is not a blocker.
 Security is architecture.
 
 I design systems where compliance, scalability, and performance coexist by design — not by remediation.
+
 ⸻
 
 Focus Areas
